@@ -22,7 +22,7 @@ If you choose to use build tools to compile your CSS and Javascript (such as SAS
 
 ## Show your working
 
-The fonts used in the designs are Circular see here - https://www.dropbox.com/s/h7m975lvy8bz5gn/Circular%20Fonts.zip?dl=0 & Proxima Nova see here - https://fonts.google.com/?query=proxima+nova
+The fonts used in the designs are Circular see here - https://www.dropbox.com/s/h7m975lvy8bz5gn/Circular%20Fonts.zip?dl=0
 
 
 ## Cross-browser inconsistencies
