@@ -14,13 +14,11 @@ Applicants may use whatever techniques and Javascript/CSS frameworks they want t
 
 3. Complete the project and commit your work. Send the URL of your own repository to @seun on the Slack here bit.ly/dcs-slack.
 
-4. If you are not comfortable with using Git, you can download the source files as a ZIP archive (click the Download ZIP button on the right). Complete the task and then re-archive all of your files. Share the file @seun on the Slack here bit.ly/dcs-slack using a service such as Dropbox or Google Drive.
-
 ## Show your working
 
 If you choose to use build tools to compile your CSS and Javascript (such as SASS of Coffescript) please include the original files as well. You may update this README file outlining the details of what tools you have used.
 
-## Show your working
+## Fonts
 
 The fonts used in the designs are Circular see here - https://www.dropbox.com/s/h7m975lvy8bz5gn/Circular%20Fonts.zip?dl=0
 
