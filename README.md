@@ -10,7 +10,7 @@ Applicants may use whatever techniques and Javascript/CSS frameworks they want t
 
 1. Fork this repository into your own public repo.
 
-2. Request to be added to the zeplin project here. https://zpl.io/25gEMK0
+2. Request to be added to the zeplin project here. https://zpl.io/adAxWm5
 
 3. Complete the project and commit your work. Send the URL of your own repository to @seun on the Slack here bit.ly/dcs-slack.
 
