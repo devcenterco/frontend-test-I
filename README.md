@@ -2,7 +2,7 @@
 
 ### Devcenter Frontend Developer Test I
 
-The purpose of this test is not only to quickly gauge an applicant's abilities with a simple HTML/CSS mockup, but also their approach to development. It is not intended that applicants spend a great deal of time on the project - no more than two hours.
+The purpose of this test is not only to quickly gauge an applicant's abilities with a simple HTML/CSS mockup, but also their approach to development.
 
 Applicants may use whatever techniques and Javascript/CSS frameworks they want to achieve the outcome.
 
