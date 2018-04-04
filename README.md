@@ -12,7 +12,7 @@ Applicants may use whatever techniques and Javascript/CSS frameworks they want t
 
 2. Request to be added to the zeplin project here. https://zpl.io/adAxWm5
 
-3. Complete the project and commit your work. Send the URL of your own repository to @seun on the Slack here bit.ly/dcs-slack.
+3. Complete the project and commit your work. Send the URL of your own repository to @kolawole.balogun on the Slack here bit.ly/dcs-slack.
 
 ## Show your working
 
