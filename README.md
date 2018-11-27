@@ -12,7 +12,9 @@ Applicants may use whatever techniques and Javascript/CSS frameworks they want t
 
 2. Request to be added to the zeplin project here. https://zpl.io/adAxWm5
 
-3. Complete the project and commit your work. Send the URL of your own repository to @kolawole.balogun on the Slack here bit.ly/dcs-slack.
+3. Using the Giphy API https://developers.giphy.com/docs/ - Write a chat input that takes a command, converts the ensuing string into a gif (Like in Slack) and adds it to the conversation
+
+4. Complete the project and commit your work. Send the URL of your own repository to @seun on the Slack here bit.ly/dcs-slack.
 
 ## Show your working
 
